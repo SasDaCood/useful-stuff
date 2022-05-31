@@ -4,7 +4,7 @@ from time import sleep
 
 URLS = {
 	"personal tutor": {
-		"url":"https://discord.com/api/webhooks/973215604687392848/DtHqfhyAZ-UTyNWphgV0mhL238vgfqCXxnHp41poN4vikfV0OFBlaSzi4xAC8HZsdgem",
+		"url":"input url here",
 		"EXCLUDE_GENDER":("female",),
 		"EXCLUDE_CAT":("Bangla Medium",),
 		"EXCLUDE_SUBS":("Bangla",),
